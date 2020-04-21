@@ -1,0 +1,1 @@
+# affiliate-sample-app
